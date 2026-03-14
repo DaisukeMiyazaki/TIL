@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TIL</title>
+  <id>https://github.com/daisuke/TIL</id>
+  <link href="https://github.com/daisuke/TIL/blob/main/feed.xml" rel="self" />
+  <link href="https://github.com/daisuke/TIL" rel="alternate" />
+</feed>
