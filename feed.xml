@@ -4,7 +4,14 @@
   <id>https://github.com/DaisukeMiyazaki/TIL</id>
   <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/feed.xml" rel="self" />
   <link href="https://github.com/DaisukeMiyazaki/TIL" rel="alternate" />
-  <updated>2026-03-14T00:00:00Z</updated>
+  <updated>2026-04-01T00:00:00Z</updated>
+  <entry>
+    <title>AI 時代に循環的複雑度の閾値は上がるか？――実態は逆だった</title>
+    <id>https://github.com/DaisukeMiyazaki/TIL/blob/main/code-quality/cyclomatic-complexity-in-ai-era.md</id>
+    <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/code-quality/cyclomatic-complexity-in-ai-era.md" />
+    <updated>2026-04-01T00:00:00Z</updated>
+    <content type="text">code-quality: AI 時代に循環的複雑度の閾値は上がるか？――実態は逆だった</content>
+  </entry>
   <entry>
     <title>cmux を導入して作業環境を2アプリに集約する</title>
     <id>https://github.com/DaisukeMiyazaki/TIL/blob/main/tools/cmux.md</id>
