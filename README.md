@@ -12,7 +12,7 @@
 
 ## cli
 
-- [speedtest-cli でターミナルからネットワーク速度を計測する](cli/speedtest-cli.md) - 2026-05-18
+- [speedtest-cli でターミナルからネットワーク速度を計測する](cli/speedtest-cli.md) - 2026-03-16
 
 ## tools
 
