@@ -1,21 +1,28 @@
 <?xml version='1.0' encoding='utf-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>TIL</title>
-  <id>https://github.com/DaisukeMiyazaki/TIL</id>
-  <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/feed.xml" rel="self" />
-  <link href="https://github.com/DaisukeMiyazaki/TIL" rel="alternate" />
-  <updated>2026-03-16T00:00:00Z</updated>
+  <id>https://github.com/daisuke/TIL</id>
+  <link href="https://github.com/daisuke/TIL/blob/main/feed.xml" rel="self" />
+  <link href="https://github.com/daisuke/TIL" rel="alternate" />
+  <updated>2026-05-18T00:00:00Z</updated>
+  <entry>
+    <title>Claude Code スキルを cron で毎日走らせて自分宛に RSS 要約メールを送る</title>
+    <id>https://github.com/daisuke/TIL/blob/main/claude-code/skill-as-daily-cron.md</id>
+    <link href="https://github.com/daisuke/TIL/blob/main/claude-code/skill-as-daily-cron.md" />
+    <updated>2026-05-18T00:00:00Z</updated>
+    <content type="text">claude-code: Claude Code スキルを cron で毎日走らせて自分宛に RSS 要約メールを送る</content>
+  </entry>
   <entry>
     <title>speedtest-cli でターミナルからネットワーク速度を計測する</title>
-    <id>https://github.com/DaisukeMiyazaki/TIL/blob/main/cli/speedtest-cli.md</id>
-    <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/cli/speedtest-cli.md" />
-    <updated>2026-03-16T00:00:00Z</updated>
+    <id>https://github.com/daisuke/TIL/blob/main/cli/speedtest-cli.md</id>
+    <link href="https://github.com/daisuke/TIL/blob/main/cli/speedtest-cli.md" />
+    <updated>2026-05-18T00:00:00Z</updated>
     <content type="text">cli: speedtest-cli でターミナルからネットワーク速度を計測する</content>
   </entry>
   <entry>
     <title>cmux を導入して作業環境を2アプリに集約する</title>
-    <id>https://github.com/DaisukeMiyazaki/TIL/blob/main/tools/cmux.md</id>
-    <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/tools/cmux.md" />
+    <id>https://github.com/daisuke/TIL/blob/main/tools/cmux.md</id>
+    <link href="https://github.com/daisuke/TIL/blob/main/tools/cmux.md" />
     <updated>2026-03-14T00:00:00Z</updated>
     <content type="text">tools: cmux を導入して作業環境を2アプリに集約する</content>
   </entry>
