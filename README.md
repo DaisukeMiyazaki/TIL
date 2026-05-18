@@ -2,9 +2,13 @@
 
 > Today I Learned
 
-現在 **1** 件の TIL があります。
+現在 **2** 件の TIL があります。
 
 ---
+
+## claude-code
+
+- [Claude Code スキルを cron で毎日走らせて自分宛に RSS 要約メールを送る](claude-code/skill-as-daily-cron.md) - 2026-05-18
 
 ## tools
 
