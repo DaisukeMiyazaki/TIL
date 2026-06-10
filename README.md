@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-現在 **3** 件の TIL があります。
+現在 **4** 件の TIL があります。
 
 ---
 
@@ -12,7 +12,11 @@
 
 ## cli
 
-- [speedtest-cli でターミナルからネットワーク速度を計測する](cli/speedtest-cli.md) - 2026-05-18
+- [speedtest-cli でターミナルからネットワーク速度を計測する](cli/speedtest-cli.md) - 2026-03-16
+
+## linux
+
+- [OpenRGB と triggerhappy でデスクトップ無しの Ubuntu から RGB ファンを F12 トグルする](linux/openrgb-fans-tty-hotkey.md) - 2026-06-10
 
 ## tools
 
