@@ -4,7 +4,14 @@
   <id>https://github.com/DaisukeMiyazaki/TIL</id>
   <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/feed.xml" rel="self" />
   <link href="https://github.com/DaisukeMiyazaki/TIL" rel="alternate" />
-  <updated>2026-05-18T00:00:00Z</updated>
+  <updated>2026-06-10T00:00:00Z</updated>
+  <entry>
+    <title>OpenRGB と triggerhappy でデスクトップ無しの Ubuntu から RGB ファンを F12 トグルする</title>
+    <id>https://github.com/DaisukeMiyazaki/TIL/blob/main/linux/openrgb-fans-tty-hotkey.md</id>
+    <link href="https://github.com/DaisukeMiyazaki/TIL/blob/main/linux/openrgb-fans-tty-hotkey.md" />
+    <updated>2026-06-10T00:00:00Z</updated>
+    <content type="text">linux: OpenRGB と triggerhappy でデスクトップ無しの Ubuntu から RGB ファンを F12 トグルする</content>
+  </entry>
   <entry>
     <title>Claude Code スキルを cron で毎日走らせて自分宛に RSS 要約メールを送る</title>
     <id>https://github.com/DaisukeMiyazaki/TIL/blob/main/claude-code/skill-as-daily-cron.md</id>
