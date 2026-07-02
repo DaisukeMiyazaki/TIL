@@ -2,7 +2,7 @@
 
 > Today I Learned
 
-現在 **4** 件の TIL があります。
+現在 **5** 件の TIL があります。
 
 ---
 
@@ -17,6 +17,10 @@
 ## linux
 
 - [OpenRGB と triggerhappy でデスクトップ無しの Ubuntu から RGB ファンを F12 トグルする](linux/openrgb-fans-tty-hotkey.md) - 2026-06-10
+
+## macos
+
+- [macOS のスクリーンショット保存は Renamed イベントで検知する](macos/screenshot-fswatch-event.md) - 2026-07-02
 
 ## tools
 
